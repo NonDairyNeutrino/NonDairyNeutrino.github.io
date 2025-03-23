@@ -12,6 +12,8 @@ Outside of science, I love storytelling through Dungeons & Dragons, disc golf, c
 
 I'm also trying to do a project in the Go language.
 
+If you are looking for my CV, you can find it [here](../cv) or on [my LinkedIn](https://www.linkedin.com/in/nathanielwchapman/).
+
 # My Story
 
 I didn't plan on writing my life story, but here I was sitting on down 03/23/2025 at about noon writing the "system prompt" for Claude so I didn't have to give it context about me every time, and I realized I had actually collected quite a bit that I think describe me, well, in nutshell (a big nutshell, but still a nutshell).  I hope you find it helpful when considering where you started and how high you can go.
