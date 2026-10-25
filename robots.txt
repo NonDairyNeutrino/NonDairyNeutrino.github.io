@@ -1,4 +1,4 @@
-Sitemap: nathanwchapman.com/sitemap.xml
+Sitemap: natchap.me/sitemap.xml
 
 User-agent: *
 Disallow:
