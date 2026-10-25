@@ -2,7 +2,7 @@
 Add here global page variables to use throughout your website.
 -->
 +++
-author = "Nathan Chapman"
+author = "Nat Chapman"
 mintoclevel = 1
 maxtoclevel = 2
 
@@ -18,9 +18,9 @@ ignore = ["node_modules/"]
 
 # RSS (the website_{title, descr, url} must be defined to get RSS)
 generate_rss = true
-website_title = "Nathan Chapman in a nutshell"
-website_descr = "Nathan Chapman in a nutshell"
-website_url   = "nathanwchapman.com"
+website_title = "Nat Chapman in a nutshell"
+website_descr = "Nat Chapman in a nutshell"
+website_url   = "natchap.me"
 +++
 
 <!--
